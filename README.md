@@ -32,5 +32,4 @@ It also generates a coaching tip for each detected signal.
 cd backend
 npm install
 
-PORT=5000
-GEMINI_API_KEY=YOUR_API_KEY
+
